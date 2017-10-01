@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "startof": "BROWSERS=./browsers.js CSS_FUCS=./css-functions.js SRC_DIR=./app webpack-dev-server --config ./node_modules/keep-web-simple-yet-modern/webpack/webpack.config.js"
+  },
+  "devDependencies": {
+    "chromatism": "^3.0.0",
+    "postcss-calc": "^6.0.0",
+    "postcss-js": "^1.0.1",
+    "keep-web-simple-yet-modern": "antitoxic/keep-web-simple-yet-modern"
+  }
+}
