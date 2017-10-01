@@ -1,8 +1,8 @@
 import './style.css';
 
-export default ({page}) =>
+export default ({page, showGreeting}) =>
   <div>
-    Hey, I'm Todor and that's my cool stuff
+    <if condition={showGreeting}>Hey, I'm Todor and that's my cool stuff</if>
     <ul>
       <li>
         <a href="/cases/project-graph-network" class={'link', {

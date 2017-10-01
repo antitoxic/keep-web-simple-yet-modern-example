@@ -7,7 +7,9 @@
   "devDependencies": {
     "chromatism": "^3.0.0",
     "postcss-calc": "^6.0.0",
-    "postcss-js": "^1.0.1",
+    "postcss-js": "^1.0.1"
+  },
+  "dependencies": {
     "keep-web-simple-yet-modern": "antitoxic/keep-web-simple-yet-modern"
   }
 }
