@@ -2667,7 +2667,7 @@ jsx-control-statements@^3.2.6:
 
 keep-web-simple-yet-modern@antitoxic/keep-web-simple-yet-modern:
   version "1.0.0"
-  resolved "https://codeload.github.com/antitoxic/keep-web-simple-yet-modern/tar.gz/0d5cab14f51bff454783f4388d60b0a66eda7ff9"
+  resolved "https://codeload.github.com/antitoxic/keep-web-simple-yet-modern/tar.gz/f5bcb8045421143d32e798ae7ac0a04702e82711"
   dependencies:
     autoprefixer "^7.1.4"
     babel-core "^6.26.0"
