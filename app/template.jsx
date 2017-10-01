@@ -2,8 +2,8 @@ import logo from './logo';
 import './style.css';
 
 export default () =>
-  <div class={{'asda-asdasd-asd': true }}>
+  <div class={{'example-class': true, 'example-class-not-applied': false }}>
     RRR
-    <logo>asdasd</logo>
+    <logo/>
   </div>
 
