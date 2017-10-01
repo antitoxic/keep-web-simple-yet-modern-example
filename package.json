@@ -1,5 +1,7 @@
 {
   "scripts": {
+    "dev": "nodemon -w .magic -x 'yarn start2'",
+    "start2": "BROWSERS=./browsers.js CSS_FUCS=./css-functions.js SRC_DIR=./app webpack-dev-server --config ./.magic/keep-web-simple-yet-modern/webpack/webpack.config.js",
     "start": "BROWSERS=./browsers.js CSS_FUCS=./css-functions.js SRC_DIR=./app webpack-dev-server --config ./node_modules/keep-web-simple-yet-modern/webpack/webpack.config.js"
   },
   "devDependencies": {

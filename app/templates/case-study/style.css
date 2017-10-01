@@ -1,0 +1,7 @@
+.case {
+  background: aliceblue;
+}
+
+.active {
+  border: 2px solid deeppink;
+}
