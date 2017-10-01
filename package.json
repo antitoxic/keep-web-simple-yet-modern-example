@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "startof": "BROWSERS=./browsers.js CSS_FUCS=./css-functions.js SRC_DIR=./app webpack-dev-server --config ./node_modules/keep-web-simple-yet-modern/webpack/webpack.config.js"
+    "start": "BROWSERS=./browsers.js CSS_FUCS=./css-functions.js SRC_DIR=./app webpack-dev-server --config ./node_modules/keep-web-simple-yet-modern/webpack/webpack.config.js"
   },
   "devDependencies": {
     "chromatism": "^3.0.0",
